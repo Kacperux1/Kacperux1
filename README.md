@@ -4,14 +4,13 @@ Welcome to my personal portfolio repository. This repository serves as my digita
 
 ## Technologies
 
-Here are some of the key technologies used in this project:
+Here are some of the key technologies:
 
-- [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-- [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
-- [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-- [![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- [![C++](https://img.shields.io/badge/-?logo=c%2B%2B&logoColor=white&color=00599C&style=flat&logoWidth=40)](https://isocpp.org/)
+- [![Java](https://img.shields.io/badge/-?logo=java&logoColor=white&color=007396&style=flat&logoWidth=40)](https://www.java.com/)
+- [![Spring Boot](https://img.shields.io/badge/-?logo=spring&logoColor=white&color=6DB33F&style=flat&logoWidth=40)](https://spring.io/projects/spring-boot)
+- [![Docker](https://img.shields.io/badge/-?logo=docker&logoColor=white&color=2496ED&style=flat&logoWidth=40)](https://www.docker.com/)
+- [![PostgreSQL](https://img.shields.io/badge/-?logo=postgresql&logoColor=white&color=336791&style=flat&logoWidth=40)](https://www.postgresql.org/)
 
 ## Description
 
@@ -24,4 +23,3 @@ Here are some of the key technologies used in this project:
 ## Contact
 
 *(Add your contact information here...)*
-
