@@ -1,10 +1,12 @@
-# My Digital Business Card
+# About me
 
-Welcome to my personal portfolio repository. This repository serves as my digital business card, showcasing my projects, skills, and professional background.
+Hello, I'm young Computer Science student from Poland, currently the 2nd year student of the Lodz University of Technology (BEng).
+"I'm in the process of finding my career path and the direction I want to develop in.
+I'm currently focused on understanding the foundations of web applications and their deployment environments.
 
 ## Technologies
 
-Here are some of the key technologies:
+Here are the key technologies i am learning and developing:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -19,9 +21,6 @@ Here are some of the key technologies:
 
 *(Add your custom description here...)*
 
-## Getting Started
-
-*(Provide instructions on how to run or use your repository here...)*
 
 ## Contact
 
