@@ -1,6 +1,6 @@
 # About me
 
-Hello, I'm young Computer Science student from Poland, currently the 2nd year student of the Lodz University of Technology (BEng).
+Hello, I'm young Computer Science student from Poland, currently the 3rd year student of the Lodz University of Technology (BEng), specialisation: Infrastructure and Network Applications.
 "I'm in the process of finding my career path and the direction I want to develop in.
 I'm currently focused on understanding the foundations of web applications and their deployment environments.
 
