@@ -29,9 +29,13 @@ Here are the key technologies i am learning and developing:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
       alt="PostgreSQL" width="50" height="50"/>
   </a>
-    <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-      alt="Linux" width="50" height="50"/>
+    <a href="https://www.jenkins.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+      alt="Jenkins" width="50" height="50"/>
+    </a>
+     <a href="https://react.dev/">
+    <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+       alt="React" width="50" height="50"/>
     </a>
 </p>
 
