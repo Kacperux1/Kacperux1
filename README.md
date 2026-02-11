@@ -34,7 +34,7 @@ Here are the key technologies i am learning and developing:
       alt="Jenkins" width="50" height="50"/>
     </a>
      <a href="https://react.dev/">
-    <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
        alt="React" width="50" height="50"/>
     </a>
 </p>
