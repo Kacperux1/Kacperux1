@@ -1,6 +1,6 @@
 # About me
 
-Hello, I'm young Computer Science student from Poland, currently the 3rd year student of the Lodz University of Technology (BEng), specialisation: Infrastructure and Network Applications.
+Hello, I'm young Computer Science student from Poland, currently the 4th year student of the Lodz University of Technology (BEng), specialisation: Infrastructure and Network Applications. I'm also working as a DevOps Engineer for Idemia Secure Transactons.
 "I'm in the process of finding my career path and the direction I want to develop in.
 I'm currently focused on understanding the foundations of web applications and their deployment environments.
 
